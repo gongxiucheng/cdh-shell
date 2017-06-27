@@ -1,2 +1,2 @@
 # cdh-shell
-基于CDH5.x parcles安装，一键卸载脚本
+based on CDH5.x parcles installation，one-key click uninstall cluster script 
